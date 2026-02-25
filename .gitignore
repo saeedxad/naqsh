@@ -1,0 +1,35 @@
+# Output files
+exports/
+
+# Test images (large files - add your own)
+tests/
+
+# Reference images
+reference/
+
+# Downloaded fonts (run fonts/download_fonts.py to fetch them)
+fonts/english/*.ttf
+fonts/arabic/*.ttf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Debug/temp files
+analyze_stderr.txt
+
+# Session handoff notes (dev-only)
+test-session-handoff.md
+handoff-lossless-quality.md
+
+# Environment / packaging
+.env
+.venv/
+venv/
+*.egg-info/
+dist/
+build/

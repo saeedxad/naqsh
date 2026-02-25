@@ -1,0 +1,278 @@
+{
+  "pairs": [
+    {
+      "id": 1,
+      "name": "Bebas Neue + Almarai",
+      "category": "bold-impact",
+      "english": {
+        "family": "Bebas Neue",
+        "main_file": "english/BebasNeue-Regular.ttf",
+        "sub_file": "english/DMSans-Variable.ttf",
+        "sub_fallback": true
+      },
+      "arabic": {
+        "family": "Almarai",
+        "main_file": "arabic/Almarai-Bold.ttf",
+        "sub_file": "arabic/Almarai-Light.ttf"
+      },
+      "mood": ["bold", "punchy", "direct", "confident"],
+      "scene": ["travel", "sports", "urban", "events"],
+      "energy": "high"
+    },
+    {
+      "id": 2,
+      "name": "Anton + Changa",
+      "category": "bold-impact",
+      "english": {
+        "family": "Anton",
+        "main_file": "english/Anton-Regular.ttf",
+        "sub_file": "english/DMSans-Variable.ttf",
+        "sub_fallback": true
+      },
+      "arabic": {
+        "family": "Changa",
+        "main_file": "arabic/Changa-Variable.ttf",
+        "sub_file": "arabic/Changa-Variable.ttf"
+      },
+      "mood": ["loud", "attention-grabbing", "energetic"],
+      "scene": ["events", "food", "action", "nightlife"],
+      "energy": "high"
+    },
+    {
+      "id": 3,
+      "name": "Oswald + Noto Sans Arabic",
+      "category": "bold-impact",
+      "english": {
+        "family": "Oswald",
+        "main_file": "english/Oswald-Variable.ttf",
+        "sub_file": "english/Oswald-Variable.ttf"
+      },
+      "arabic": {
+        "family": "Noto Sans Arabic",
+        "main_file": "arabic/NotoSansArabic-Variable.ttf",
+        "sub_file": "arabic/NotoSansArabic-Variable.ttf"
+      },
+      "mood": ["editorial", "authoritative", "strong"],
+      "scene": ["news", "documentary", "landscape", "travel"],
+      "energy": "high"
+    },
+    {
+      "id": 4,
+      "name": "League Gothic + Noto Kufi Arabic",
+      "category": "bold-impact",
+      "english": {
+        "family": "League Gothic",
+        "main_file": "english/LeagueGothic-Variable.ttf",
+        "sub_file": "english/DMSans-Variable.ttf",
+        "sub_fallback": true
+      },
+      "arabic": {
+        "family": "Noto Kufi Arabic",
+        "main_file": "arabic/NotoKufiArabic-Variable.ttf",
+        "sub_file": "arabic/NotoKufiArabic-Variable.ttf"
+      },
+      "mood": ["geometric", "poster-like", "dramatic"],
+      "scene": ["sports", "concerts", "nightlife", "festivals"],
+      "energy": "high"
+    },
+    {
+      "id": 5,
+      "name": "Archivo Black + El Messiri",
+      "category": "bold-impact",
+      "english": {
+        "family": "Archivo Black",
+        "main_file": "english/ArchivoBlack-Regular.ttf",
+        "sub_file": "english/DMSans-Variable.ttf",
+        "sub_fallback": true
+      },
+      "arabic": {
+        "family": "El Messiri",
+        "main_file": "arabic/ElMessiri-Variable.ttf",
+        "sub_file": "arabic/ElMessiri-Variable.ttf"
+      },
+      "mood": ["heavy", "commanding", "industrial"],
+      "scene": ["architecture", "industrial", "urban", "documentary"],
+      "energy": "high"
+    },
+    {
+      "id": 6,
+      "name": "Clash Display + Tajawal",
+      "category": "modern-clean",
+      "english": {
+        "family": "Clash Display",
+        "main_file": "english/ClashDisplay-Bold.ttf",
+        "sub_file": "english/ClashDisplay-Light.ttf"
+      },
+      "arabic": {
+        "family": "Tajawal",
+        "main_file": "arabic/Tajawal-Bold.ttf",
+        "sub_file": "arabic/Tajawal-Light.ttf"
+      },
+      "mood": ["modern", "sharp", "distinctive", "sleek"],
+      "scene": ["travel", "lifestyle", "fashion", "architecture"],
+      "energy": "medium"
+    },
+    {
+      "id": 7,
+      "name": "Satoshi + IBM Plex Sans Arabic",
+      "category": "modern-clean",
+      "english": {
+        "family": "Satoshi",
+        "main_file": "english/Satoshi-Bold.ttf",
+        "sub_file": "english/Satoshi-Light.ttf"
+      },
+      "arabic": {
+        "family": "IBM Plex Sans Arabic",
+        "main_file": "arabic/IBMPlexSansArabic-Bold.ttf",
+        "sub_file": "arabic/IBMPlexSansArabic-Light.ttf"
+      },
+      "mood": ["geometric", "clean", "modern", "minimal"],
+      "scene": ["tech", "minimal", "product", "startup"],
+      "energy": "medium"
+    },
+    {
+      "id": 8,
+      "name": "Space Grotesk + IBM Plex Sans Arabic",
+      "category": "modern-clean",
+      "english": {
+        "family": "Space Grotesk",
+        "main_file": "english/SpaceGrotesk-Variable.ttf",
+        "sub_file": "english/SpaceGrotesk-Variable.ttf"
+      },
+      "arabic": {
+        "family": "IBM Plex Sans Arabic",
+        "main_file": "arabic/IBMPlexSansArabic-Bold.ttf",
+        "sub_file": "arabic/IBMPlexSansArabic-Light.ttf"
+      },
+      "mood": ["futuristic", "tech-forward", "innovative"],
+      "scene": ["tech", "startup", "space", "science"],
+      "energy": "medium"
+    },
+    {
+      "id": 9,
+      "name": "General Sans + Cairo",
+      "category": "modern-clean",
+      "english": {
+        "family": "General Sans",
+        "main_file": "english/GeneralSans-Bold.ttf",
+        "sub_file": "english/GeneralSans-Light.ttf"
+      },
+      "arabic": {
+        "family": "Cairo",
+        "main_file": "arabic/Cairo-Variable.ttf",
+        "sub_file": "arabic/Cairo-Variable.ttf"
+      },
+      "mood": ["versatile", "all-rounder", "balanced"],
+      "scene": ["any", "travel", "lifestyle", "business"],
+      "energy": "medium"
+    },
+    {
+      "id": 10,
+      "name": "Plus Jakarta Sans + Noto Kufi Arabic",
+      "category": "modern-clean",
+      "english": {
+        "family": "Plus Jakarta Sans",
+        "main_file": "english/PlusJakartaSans-Variable.ttf",
+        "sub_file": "english/PlusJakartaSans-Variable.ttf"
+      },
+      "arabic": {
+        "family": "Noto Kufi Arabic",
+        "main_file": "arabic/NotoKufiArabic-Variable.ttf",
+        "sub_file": "arabic/NotoKufiArabic-Variable.ttf"
+      },
+      "mood": ["geometric", "friendly", "warm"],
+      "scene": ["lifestyle", "wellness", "food", "family"],
+      "energy": "medium"
+    },
+    {
+      "id": 11,
+      "name": "Bodoni Moda + Amiri",
+      "category": "elegant-editorial",
+      "english": {
+        "family": "Bodoni Moda",
+        "main_file": "english/BodoniModa-Variable.ttf",
+        "sub_file": "english/BodoniModa-Variable.ttf"
+      },
+      "arabic": {
+        "family": "Amiri",
+        "main_file": "arabic/Amiri-Bold.ttf",
+        "sub_file": "arabic/Amiri-Regular.ttf"
+      },
+      "mood": ["editorial", "luxurious", "refined", "classic"],
+      "scene": ["fashion", "luxury", "art", "fine-dining"],
+      "energy": "low"
+    },
+    {
+      "id": 12,
+      "name": "DM Sans + Tajawal",
+      "category": "elegant-editorial",
+      "english": {
+        "family": "DM Sans",
+        "main_file": "english/DMSans-Variable.ttf",
+        "sub_file": "english/DMSans-Variable.ttf"
+      },
+      "arabic": {
+        "family": "Tajawal",
+        "main_file": "arabic/Tajawal-Bold.ttf",
+        "sub_file": "arabic/Tajawal-Light.ttf"
+      },
+      "mood": ["refined", "minimal", "sophisticated"],
+      "scene": ["architecture", "interiors", "minimal", "art"],
+      "energy": "low"
+    },
+    {
+      "id": 13,
+      "name": "Syne + Changa",
+      "category": "elegant-editorial",
+      "english": {
+        "family": "Syne",
+        "main_file": "english/Syne-Variable.ttf",
+        "sub_file": "english/Syne-Variable.ttf"
+      },
+      "arabic": {
+        "family": "Changa",
+        "main_file": "arabic/Changa-Variable.ttf",
+        "sub_file": "arabic/Changa-Variable.ttf"
+      },
+      "mood": ["expressive", "artistic", "creative"],
+      "scene": ["art", "music", "culture", "festivals"],
+      "energy": "medium"
+    },
+    {
+      "id": 14,
+      "name": "Outfit + Noto Sans Arabic",
+      "category": "versatile",
+      "english": {
+        "family": "Outfit",
+        "main_file": "english/Outfit-Variable.ttf",
+        "sub_file": "english/Outfit-Variable.ttf"
+      },
+      "arabic": {
+        "family": "Noto Sans Arabic",
+        "main_file": "arabic/NotoSansArabic-Variable.ttf",
+        "sub_file": "arabic/NotoSansArabic-Variable.ttf"
+      },
+      "mood": ["flexible", "modern", "adaptable"],
+      "scene": ["any", "travel", "food", "lifestyle"],
+      "energy": "medium"
+    },
+    {
+      "id": 15,
+      "name": "Switzer + El Messiri",
+      "category": "versatile",
+      "english": {
+        "family": "Switzer",
+        "main_file": "english/Switzer-Bold.ttf",
+        "sub_file": "english/Switzer-Light.ttf"
+      },
+      "arabic": {
+        "family": "El Messiri",
+        "main_file": "arabic/ElMessiri-Variable.ttf",
+        "sub_file": "arabic/ElMessiri-Variable.ttf"
+      },
+      "mood": ["neo-grotesque", "clean", "professional"],
+      "scene": ["any", "business", "tech", "editorial"],
+      "energy": "medium"
+    }
+  ]
+}
