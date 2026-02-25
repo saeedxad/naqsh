@@ -1,4 +1,4 @@
-# Naqsh (نقش)
+# 🖋️ Naqsh (نقش)
 
 I built this to speed up my social media workflow. It's a [Claude Code](https://docs.anthropic.com/en/docs/claude-code) slash command — give it a photo and your text in English and Arabic, and it figures out the rest: what color to use, which font fits the mood, and where to place it so nothing important gets covered.
 
